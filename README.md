@@ -23,7 +23,7 @@ out collectively by the network. Arrowcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Arrowcoin QT software, see https://www.arrowcoin.org/
+the Arrowcoin QT software, see https://www.arrowtoken.io/
 
 License
 -------
