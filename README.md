@@ -1,9 +1,7 @@
 Arrowcoin integration/staging tree
 =================================
 
-Arrowcoin QT Wallet Forked from BlackCoin reference wallet 1.0.6 on 25 april 2014
-
-https://www.arrowcoin.org
+https://www.arrowtoken.io
 
 https://bitcointalk.org/index.php?topic=1129322.0
 
