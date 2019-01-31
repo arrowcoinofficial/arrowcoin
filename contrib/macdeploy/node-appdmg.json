@@ -1,0 +1,12 @@
+//npm install -g appdmg
+//appdmg node-appdmg.json Arrowcoin.dmg
+//Mount .dmg and copy /Volumes/Arrowcoin/.DS_Store to ./DS_Store
+{
+  "title": "Arrowcoin",
+  "icon": "../../src/qt/res/icons/Arrowcoin.icns",
+  "background": "background.png",
+  "contents": [
+    { "x": 370, "y": 156, "type": "link", "path": "/Applications" },
+    { "x": 128, "y": 156, "type": "file", "path": "../../Arrowcoin-Qt.app" }
+  ]
+}
