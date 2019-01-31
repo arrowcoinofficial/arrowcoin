@@ -3,8 +3,6 @@ Arrowcoin integration/staging tree
 
 https://www.arrowtoken.io
 
-https://bitcointalk.org/index.php?topic=1129322.0
-
 Copyright (c) 2015-2019 Arrowcoin Developers
 
 Copyright (c) 2014 BlackCoin Developers
